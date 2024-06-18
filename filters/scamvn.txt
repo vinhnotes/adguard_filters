@@ -2,10 +2,9 @@
 ! Description: Filter all scam sites.
 ! Last modified: 18 Jun 2024 11:19 UTC+7
 ! Version: 1
-! Blocked: 17012 rules
+! Blocked: 16844 rules
 ! Expires: 1 days (update frequency)
 !
-
 ||vingroupinternational.vn^
 ||vingroupglobal.com^
 ||the-tin-dung-master-card.com^
@@ -15,21 +14,6 @@
 ||dang-ky-tin-dung-mbbank.com^
 ||dang-ky-tin-dung-techcombank.com^
 ||khach-hang-ca-nhan-techcombank-tin-dung.com^
-||nang-cap-khach-hang.com^
-||vingroupinternational.vn^
-||vingroupglobal.com^
-||the-tin-dung-master-card.com^
-||dv-the-tin-dung.online^
-||rut-tien-the-tin-dung.online^
-||khach-hang-ca-nhan.site^
-||dang-ky-tin-dung-mbbank.com^
-||dang-ky-tin-dung-techcombank.com^
-||khach-hang-ca-nhan-techcombank-tin-dung.com^
-||nang-cap-khach-hang.com^
-||nang-cap-khach-hang.com^
-||nang-cap-khach-hang.com^
-||nang-cap-khach-hang.com^
-||nang-cap-khach-hang.com^
 ||nang-cap-khach-hang.com^
 ||tin-dung-ngan-hang-vpbank.com^
 ||vp-khach-hang-ca-nhan-the-visa.com.vn^
@@ -491,7 +475,6 @@
 ||ducnghia1.net^
 ||easycredit-easy.com^
 ||ercl0.com^
-||fgabb.net^
 ||ficarus.app^
 ||fpt-appsoftware.com^
 ||fptappsoftware.com^
@@ -1207,18 +1190,10 @@
 ||amazon1986.com^
 ||avay.vn^
 ||cotientieu.net^
-||digitalmarketing2017.com^
-||easycrediit.com^
-||easycredit-evn.com^
-||easycreditv.com^
-||easycreditvvn.com^
 ||ffb.ink^
 ||galaxytok.com^
-||galaxytok.com^
 ||h5vaytien.com^
-||hn34h.com^
 ||kingshopper.shop^
-||l7976.com^
 ||lulumall.ink^
 ||sashop99.com^
 ||shopdiniha.com^
@@ -1261,7 +1236,6 @@
 ||sscredit.click^
 ||vaynhanh368.com^
 ||vaynhanh368.online^
-||vaynhanhmb247.com^
 ||vaynhanhmb247.com^
 ||wed0375.com^
 ||yanshi1966.com^
@@ -1473,7 +1447,6 @@
 ||tpbankvnn.com^
 ||ttnd8888.com^
 ||vanmaywin.me^
-||vaynhanhvn.net^
 ||vayqualuongshinhan.com^
 ||vaytinviet.net^
 ||vn85236shop.com^
@@ -1535,7 +1508,6 @@
 ||cokhichauau.online^
 ||glotitex.io^
 ||jaccsvvn.com^
-||kkrio.com^
 ||nambinh-credit18.com^
 ||orzcdfbkr.vip^
 ||uezmarkets.com^
@@ -1580,8 +1552,6 @@
 ||dcfx.co.id^
 ||dcfx.com^
 ||dichvuchuyennhathanhhung.com.vn^
-||dienmaycholon.me^
-||ducnghia1.net^
 ||ebay-world.com^
 ||gensi.vn^
 ||hackrip.com^
@@ -1597,7 +1567,6 @@
 ||oasisgrs.org^
 ||onefirecc.com^
 ||pvcvietnam.world^
-||shoptime.vn^
 ||taxitaithanhhunggroup.com^
 ||thanhhungvn.com^
 ||tmgm.com^
@@ -1634,7 +1603,6 @@
 ||shoprdroblox.com^
 ||skwm4739.com^
 ||szv.cc^
-||tot166.com^
 ||trx1.love^
 ||vietthanhhotro.online^
 ||vincomshot.net^
@@ -1672,18 +1640,12 @@
 ||sskklmman.top^
 ||sskklmmhui.top^
 ||sskklmmji.top^
-||tot198.com^
 ||vengley.com^
 ||wc9008.com^
 ||ydoxo.com^
 ||43524er.com^
 ||arbiitrum.com^
 ||arbitrumtrading.com^
-||bestmallbuy.com^
-||dfgfdg345.com^
-||dienmaycholon.cc^
-||dienmaycholon.fun^
-||emartsmalls.com^
 ||evean.online^
 ||fashionmallsw.com^
 ||gkfx-primeasia.com^
@@ -1691,12 +1653,8 @@
 ||gkpartnersportal.com^
 ||hackvn.net^
 ||hoctrothanhlich.com^
-||kmvnxcv.com^
-||oiuionb.com^
-||oourtr.xyz^
 ||qwdsavnm.com^
 ||rongdo.live^
-||vbcvbwer.com^
 ||wavecapitals.com^
 ||you123tv.xyz^
 ||yrtytry.com^
@@ -1734,9 +1692,7 @@
 ||midong.co^
 ||navacash.com^
 ||nckxioqt.xyz^
-||petro84.com^
 ||profenderholding.co.in^
-||ptf84.com^
 ||rick88.me^
 ||ruthetindung.com^
 ||sunitafurniture.com^
@@ -1807,10 +1763,6 @@
 ||clmmgame.com^
 ||cltx222.site^
 ||cocosshoptee.com^
-||coinbase799.com^
-||coinbase899.com^
-||coinbase978.com^
-||coinbaseapp8.com^
 ||hotrodangkyvayvon.com^
 ||mm66.club^
 ||momo11.fun^
@@ -1833,7 +1785,6 @@
 ||argoncredit.online^
 ||argoncredit.website^
 ||center-nanghanmucthetindung.com^
-||coinbase989.com^
 ||dangky-nanghanmucthe.com^
 ||dangky-nanghanmucthetindung.com^
 ||dichvu247-vimo.com^
@@ -1900,34 +1851,9 @@
 ||xkl2582.lol^
 ||ynhg251.lol^
 ||ynhg252.lol^
-||007zpo.com^
-||158zpo.com^
-||31luxu.com^
-||4zpo.com^
-||5zpo.com^
 ||6zpo.com^
-||7zpo.com^
-||86luxu.com^
-||9zpo.com^
 ||future-financeltd.net^
-||luxurysvip132.com^
-||luxurysvip133.com^
-||luxurysvip138.com^
-||luxurysvip158.com^
-||luxurysvip166.com^
-||luxurysvip169.com^
-||luxurysvip180.com^
-||luxurysvip198.com^
 ||luxurysvip888.com^
-||luxvip112.com^
-||luxvip125.com^
-||luxvip145.com^
-||luxvip153.com^
-||luxvip163.com^
-||luxvip178.com^
-||luxvip185.com^
-||luxvip196.com^
-||luxvip325.com^
 ||qwg6158qwe.com^
 ||13386.store^
 ||41475.store^
@@ -2011,7 +1937,6 @@
 ||vayxinh2023quadep22.store^
 ||ynhg253.lol^
 ||01138400.com^
-||3zpo.com^
 ||ac2023ab.com^
 ||airbamboobooking.com^
 ||bibox-smobile1.com^
@@ -2623,7 +2548,6 @@
 ||metaniex.com^
 ||minimo.gg^
 ||smart-tradex.com^
-||stockvip.pro^
 ||vicq.live^
 ||vicq.net^
 ||viso.love^
@@ -2750,7 +2674,6 @@
 ||clmm5.fun^
 ||clmmut.online^
 ||cltx38.fun^
-||cltxmm.us^
 ||coinbasedefi.online^
 ||coinzoomexa.com^
 ||emovieplan.net^
@@ -2919,7 +2842,6 @@
 ||bc.game^
 ||cashspace.vn^
 ||coinvid.com^
-||dfewaqsvb.com^
 ||gream.ltd^
 ||ixpgamf.top^
 ||mmomo.me^
@@ -3076,11 +2998,7 @@
 ||vaytotnhat.app^
 ||venicescp.com^
 ||vingroupventures.site^
-||11luxu.com^
 ||2phutkiemtien.com^
-||32luxu.com^
-||65luxu.com^
-||75luxu.com^
 ||atmonline.vn^
 ||bb52.me^
 ||betmomo.fun^
@@ -3115,7 +3033,6 @@
 ||garerra.vn^
 ||garezna.vn^
 ||gerara.vn^
-||gofare.com^
 ||grerena.vn^
 ||hdbankfinance.org^
 ||hotroruttindung.com^
@@ -3123,17 +3040,7 @@
 ||kogkk.com^
 ||login-mposcard.com^
 ||loiori.tk^
-||luxu16.com^
-||luxuryvip128.com^
-||luxuryvip138.com^
-||luxuryvip168.com^
 ||luxuryvip178.com^
-||luxuryvip188.com^
-||luxuryvip198.com^
-||luxuryvip357.com^
-||luxuryvip485.com^
-||luxuryvip668.com^
-||luxuryvip669.com^
 ||momo113.win^
 ||mstacsouctrcs.icu^
 ||muaclone979.tk^
@@ -3713,7 +3620,6 @@
 ||k7f1qul.cfd^
 ||kic4qbh.cfd^
 ||l19pye4.cfd^
-||ldjmi.com^
 ||ljuvv2z.cfd^
 ||n61srpy.cfd^
 ||n9n9tjd.cfd^
@@ -3733,7 +3639,6 @@
 ||tsj2786.cfd^
 ||uec8h8l.cfd^
 ||ulofv1i.cfd^
-||utpgesy.com^
 ||v50gcib.cfd^
 ||vbgyh7a.cfd^
 ||vhgqrlz.cfd^
@@ -3860,7 +3765,6 @@
 ||avietcombank.com^
 ||customer-paymentcard-mp0svn.com^
 ||dcvbpk.com^
-||dcvbpk.com^
 ||dev-checkmoneypayment-mpos.com^
 ||evbhny.com^
 ||giaodich-daohan.com^
@@ -3953,7 +3857,6 @@
 ||sdkfjhp.icu^
 ||storeesteelauder.website^
 ||thichanhmoney.store^
-||tot789.com^
 ||tuvanruttien.com^
 ||venha123.me^
 ||vnpay-quetthetindung.com^
@@ -4256,9 +4159,7 @@
 ||dragoncapitalvay.com^
 ||dragoncapitalvn.com^
 ||eavujbk.com^
-||eavujbk.com^
 ||expressmoney.cc^
-||fgabb.net^
 ||gefun37352.top^
 ||ghjut8.com^
 ||giaiviet259.com^
@@ -4326,7 +4227,6 @@
 ||itjjh96.com^
 ||aovnbk.com^
 ||nabolm0vn.com^
-||yugrt5.com^
 ||hgivio9.com^
 ||acbhgl45.com^
 ||adhgl07.com^
@@ -4478,7 +4378,6 @@
 ||twin688.app^
 ||vp111.vip^
 ||analyc.com^
-||audiindex.com^
 ||baselmarket.com^
 ||bchgloballtd.com^
 ||blue88.me^
@@ -4598,7 +4497,6 @@
 ||bilinkbitx.com^
 ||childcause.club^
 ||clmm1s.co^
-||dichvutruyenhinhcap.info^
 ||evnvaytien.xyz^
 ||handicopro.com^
 ||mbbank.net.cn^
@@ -4621,7 +4519,6 @@
 ||krakencoin.me^
 ||luxyperfume.info^
 ||momo686.win^
-||muahangcargo.com^
 ||napvidientu.fun^
 ||qanjb9k.com^
 ||tdoemp.com^
@@ -4779,7 +4676,6 @@
 ||la79547.com^
 ||la87354.com^
 ||la91571.com^
-||la98744.com^
 ||little-hotelier-au.com^
 ||littlehotelier-au.agency^
 ||littlehotelier-au.net^
@@ -4878,7 +4774,6 @@
 ||vnsh9832.com^
 ||vnsmartrobot.com^
 ||voluum.online^
-||vuongphongfinance.com^
 ||www-coinbase-ba.com^
 ||www-coinbase-cb.com^
 ||xosominhngocc.com^
@@ -5215,7 +5110,6 @@
 ||yn1856.com^
 ||yn1956.com^
 ||188666.vip^
-||89luxu.com^
 ||abe44.com^
 ||ashford99.com^
 ||bcl-aone.com^
@@ -5455,7 +5349,6 @@
 ||tamo.vn^
 ||tovlks.com^
 ||tx1s.co^
-||vaynhanhnamthanh.org^
 ||aiouiioloh.com^
 ||bbyym.com^
 ||btuyhoplkj.com^
@@ -5566,10 +5459,6 @@
 ||yrg777.com^
 ||yrg999.com^
 ||zarastore2.pro^
-||10lxysp.com^
-||11lxysp.com^
-||12lxysp.com^
-||13lxysp.com^
 ||14lxysp.com^
 ||adrbvc112edsa.cyou^
 ||bbibbpp.top^
@@ -5586,17 +5475,6 @@
 ||krilex.net^
 ||lostexeg.com^
 ||luluiivip.fun^
-||luxu10.com^
-||luxu15.com^
-||luxu17.com^
-||luxu30.com^
-||luxu66.com^
-||luxu85.com^
-||luxu99.com^
-||lxysp93.com^
-||lxysp94.com^
-||lxysp95.com^
-||lxysp96.com^
 ||mooloo.fun^
 ||naplienquanviet.com^
 ||netappavcc.com^
@@ -5608,7 +5486,6 @@
 ||pproot.top^
 ||sdklll.fun^
 ||sdklll.top^
-||splxy.com^
 ||tangnickmienphi.com^
 ||ttkkjj.top^
 ||vebay7.com^
@@ -5684,7 +5561,6 @@
 ||olaclub2.com^
 ||olaclub4.com^
 ||olaclub5.com^
-||saleonline.live^
 ||t777.co^
 ||taiola.vip^
 ||taoshopsieure.net^
@@ -6160,8 +6036,6 @@
 ||tg-goldbar.com^
 ||vestasasia.com^
 ||wvietcombank.com^
-||12luxury.com^
-||15luxury.com^
 ||222win456.com^
 ||256lux.com^
 ||333win456.com^
@@ -6193,7 +6067,6 @@
 ||lux625.com^
 ||lux775.com^
 ||lux889.com^
-||luxury61.com^
 ||lxy256.com^
 ||lxy587.com^
 ||lxy951.com^
@@ -6317,7 +6190,6 @@
 ||333lotte.com^
 ||33lotte.com^
 ||360tradehub.com^
-||88lotte.com^
 ||999lotte.com^
 ||99lotte.com^
 ||atlantiscex.com^
@@ -6339,8 +6211,6 @@
 ||shbfinan.com^
 ||tpbank84.com^
 ||tx55.vip^
-||vib84.com^
-||vibvayvn.com^
 ||wietcombank.com^
 ||3288vn.com^
 ||3588vn.com^
@@ -6348,8 +6218,6 @@
 ||5288bet3.com^
 ||5288bet5.com^
 ||5288bet6.com^
-||acshub.me^
-||acsmail.cc^
 ||apple.support-found.live^
 ||artqwers.icu^
 ||bbctrx.com^
@@ -6358,11 +6226,7 @@
 ||freefirehopqua.com^
 ||hfj4k.com^
 ||iggtrx.com^
-||jaccs.club^
-||jaccs.fun^
 ||jaccs.live^
-||jaccs.site^
-||jaccs.space^
 ||jaccs.vip^
 ||jaccss.com^
 ||kejiji.top^
@@ -6389,10 +6253,7 @@
 ||lucky55.me^
 ||lucky66.me^
 ||lucky789.me^
-||maivang.xyz^
 ||oddccr.com^
-||oncre.live^
-||oncre.xyz^
 ||rancher.world^
 ||s88611.com^
 ||s88622.com^
@@ -6406,7 +6267,6 @@
 ||tintinvay.com^
 ||ttryp0.com^
 ||ujgf1i.com^
-||vietthanh.xyz^
 ||vn-tiki.com^
 ||vn-tiki.top^
 ||vn-tiki.vip^
@@ -6469,7 +6329,6 @@
 ||sunbtc.space^
 ||timeforbitco.in^
 ||v89589.com^
-||vietthanh.club^
 ||vvn69.com^
 ||vvz00.com^
 ||vvz66.com^
@@ -7638,7 +7497,6 @@
 ||ebangbnet.com^
 ||fxoneultra.com^
 ||hose2022.com^
-||luxury62.com^
 ||lynnellen.net^
 ||parachainglobal.com^
 ||rotundallc.com^
@@ -7664,10 +7522,7 @@
 ||vn100z.com^
 ||vn50006.com^
 ||ygyu1.com^
-||13luxury.com^
 ||16luxury.com^
-||17luxury.com^
-||20luxury.com^
 ||bestcoinmining.uk^
 ||bocongthuong.org^
 ||businessfastsell.com^
@@ -7676,19 +7531,11 @@
 ||fastsellvn.com^
 ||figaromarrakech.com^
 ||gub781.com^
-||luxury51.com^
-||luxury53.com^
-||luxury54.com^
 ||luxury59.com^
-||luxury60.com^
-||luxury63.com^
-||luxury64.com^
-||luxury65.com^
 ||mendezfamilyonline.com^
 ||mullenmanagement.com^
 ||musicalsound.org^
 ||nuentertainmentnightlife.com^
-||spmct8.com^
 ||udh669.com^
 ||uds657.com^
 ||uudainapthe.vn^
@@ -7973,20 +7820,10 @@
 ||a6680.com^
 ||bguf58.com^
 ||chfd66.com^
-||classics0.com^
-||classics003.com^
 ||classics004.com^
-||classics007.com^
-||classics008.com^
-||classics009.com^
 ||classics010.com^
 ||classics10.com^
-||classics11.com^
-||classics2.com^
-||classics5.com^
-||classics6.com^
 ||classics7.com^
-||classics8.com^
 ||classics9.com^
 ||fbgu67.com^
 ||fdkr53.com^
@@ -8005,12 +7842,7 @@
 ||sp9mct.com^
 ||spemct.com^
 ||spmct1.com^
-||spmct2.com^
-||spmct3.com^
 ||spmct4.com^
-||spmct5.com^
-||spmct6.com^
-||spmct7.com^
 ||spmct9.com^
 ||uuem72.com^
 ||vimomo.me^
@@ -8170,7 +8002,6 @@
 ||vn-uz.life^
 ||babi88.club^
 ||citivay.org^
-||classics005.com^
 ||clmm360.pw^
 ||cs9.io^
 ||evn666888.org^
@@ -8241,7 +8072,6 @@
 ||icmarkospro.net^
 ||kingofbo.net^
 ||lstmoney.xyz^
-||luxmax015.com^
 ||momoloto.com^
 ||myfarm.click^
 ||obcorpfx.com^
@@ -8831,7 +8661,6 @@
 ||shopdegamingff.com^
 ||grupoalquitarafilms.com^
 ||sendo-vn.com^
-||classics006.com^
 ||vvb111.com^
 ||shopnamblue.com^
 ||greatkcno.com^
@@ -8939,7 +8768,6 @@
 ||greateto.com^
 ||bidencash.cc^
 ||0mcmc.com^
-||classics002.com^
 ||vn-nhanquatang.online^
 ||hi1555.com^
 ||sd4804.xyz^
@@ -9789,7 +9617,6 @@
 ||xoso6622.com^
 ||xoso6611.com^
 ||xoso6600.com^
-||xoso123.com^
 ||vay6.com^
 ||sp7788.com^
 ||8329751.com^
@@ -13038,7 +12865,6 @@
 ||oneblockchain.xyz^
 ||marvelinvestor.cc^
 ||happy-win.com.cn^
-||shopacclienminh.vn^
 ||clmm287.com^
 ||vn-inc.top^
 ||finneythompsonentertainment.com^
@@ -14326,9 +14152,7 @@
 ||lazada6.vip^
 ||golazada.vip^
 ||phlazada.vip^
-||tiki555.com^
 ||tiki111.com^
-||tiki666.com^
 ||tiki333.com^
 ||tikishop.vip^
 ||tiki55.com^
@@ -15518,7 +15342,6 @@
 ||sieuno.vin^
 ||sieukeo.vip^
 ||showlive9.net^
-||shoptruykich.vn^
 ||shoppubguytin.com^
 ||shopmsuong.shop^
 ||shopkellygaming.net^
@@ -15683,7 +15506,6 @@
 ||goldlion.tv^
 ||r383a.cc^
 ||r383a.com^
-||tiki888.com^
 ||0bblive.com^
 ||10bblive.com^
 ||1bblive.com^
